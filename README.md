@@ -1,6 +1,7 @@
 # 2018-达观杯”文本智能处理挑战赛
 
-记念一下我们队伍: 随缘比赛的答辩 PPT。
+记念一下我们队伍: **随缘比赛**的答辩 PPT。
+
 代码已整理开源在队友**何从庆github**：https://github.com/hecongqing/2018-daguan-competition
 
 
